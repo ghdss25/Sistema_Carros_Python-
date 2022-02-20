@@ -1,7 +1,7 @@
 ## Sobre o Projeto
 
 O Projeto de ** Sistema de Vendas dos Carros ** foi um desafio realizado pelo curso do Data Science Academy, onde foi mandato uma planilha em Excel para o aluno
-se desafiar a realizar a análise de dados da melhor forma possível.
+analisar uma Planilhia de Vendas dos Carros onde puder visualizar o total de vendas por estado e se as vendas estão acima ou abaixo da média. Manipular os dados por coluna
 
 ## Tarefas Realizadas 
 
