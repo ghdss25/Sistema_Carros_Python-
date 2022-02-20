@@ -43,5 +43,5 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Os](https://docs.python.org/3/library/os.html)
 
-- [Subprocess][https://docs.python.org/3/library/subprocess.html]
+- [Subprocess](https://docs.python.org/3/library/subprocess.html)
 
